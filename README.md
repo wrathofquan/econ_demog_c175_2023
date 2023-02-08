@@ -1,6 +1,11 @@
 # DEMOG C175: Economic Demography
 
 
+`r badge_custom("Launch", 
+                "UCB Datahub", "blue",   
+                "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjosh-goldstein-git%2Fecon_demog_c175_2023&urlpath=rstudio%2F")`
+
+
 ## R and RStudio
 
 As an alternative to the Demography Rstudio server, we recommend using 
